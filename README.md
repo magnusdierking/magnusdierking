@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+### Links
+
+    🌐 Website: [magnusdierking.com](https://magnusdierking.github.io/)
+    💌 Email: [mag.dierking@gmail.com](mailto:mag.dierking@gmail.com)
+    💼 LinkedIn: [magnusdierking](https://www.linkedin.com/in/magnusdierking)
